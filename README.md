@@ -1,4 +1,4 @@
-# Popular_chess_openings
+# Exploratory Analysis on Popular Chess Openings
 
 I’ve started playing chess recently, and I have realized that learning chess openings can save time and mental energy in the beginning of the game. 
 
